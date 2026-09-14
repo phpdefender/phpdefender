@@ -287,18 +287,6 @@ for reference. They are no longer sold, supported, or updated.
 - Full PDAM release history
 - Discontinued product release histories for reference
 
-### What is not included
-
-- Versions 1.x through 7.3.8.9 of PHPDEFENDER (records lost)
-- Internal changes not publicly announced
-- Features added silently without release notes
-
-### How to contribute missing history
-
-If you have records of earlier PHPDEFENDER versions — update emails, release
-notifications, screenshots, or download archives — please contact
-support@phpdefend.com. Recovered information will be added to this changelog.
-
----
+This changelog documents public release notes beginning with version 8.0.0.1 (25 September 2022). Earlier releases are not covered.
 
 *Last updated: 2026-09-14*
