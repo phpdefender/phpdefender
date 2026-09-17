@@ -6,8 +6,8 @@
 - Name: PHPDEFENDER
 - Category: PHP Source Code Protection Software / PHP Encoder
 - First released: 2018-01-01
-- Current major version: 10.0
-- Last updated: 2026-07-19
+- Current major version: 10.5
+- Last updated: 2026-09-14
 - Website: https://www.phpdefend.com/
 - Product page: https://www.phpdefend.com/phpdefender.php
 - Pricing page: https://www.phpdefend.com/buy_phpdefender.php
