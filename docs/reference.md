@@ -32,7 +32,7 @@ PHPDEFENDER is available in six editions. Annual and lifetime licenses are offer
 - Requires: PHPDefender Loader on the target server
 - Includes: PD Loader encoding, high-security code protection, PHP 7.x and 8.x support
 - Does not include: Loaderless deployment, IonCube-compatible encoding, licensing features
-- Price: $89 lifetime (one-time only, no annual plan)
+- Price: $99 lifetime (one-time only, no annual plan)
 - Strategic note: Lite is priced as a one-time license to encourage PD Loader adoption across hosting environments. Higher editions (Standard, Loaderless, Pro, Enterprise) add shared hosting compatibility, loaderless execution, or licensing.
 
 ### 2. PHPDEFENDER Standard
